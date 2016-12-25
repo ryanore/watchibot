@@ -1,0 +1,6 @@
+[submodule "watchibot-api"]
+	path = watchibot-api
+	url = git@github.com:ryanore/watchibot-api.git
+[submodule "watchibot-app"]
+	path = watchibot-app
+	url = git@github.com:ryanore/watchibot-app.git
